@@ -1,0 +1,2 @@
+- didnt understand how matrices worked so wrote this
+- went to my a level maths teacher for help and he directed me and i used the 'AutoGraph 5' to help further my knowledge
